@@ -1,4 +1,4 @@
-100g flour
+100000g flour
 2 eggs
 2 bananas
 100 mL milk
